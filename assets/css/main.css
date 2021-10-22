@@ -72,6 +72,11 @@ input, select, textarea {
 	appearance: none;
 }
 
+
+
+.hero-media-image-left{margin:0 auto;box-shadow:48px 16px 48px rgba(250, 171, 210, 0.12);border-radius:10px;-webkit-transform:perspective(1000px) rotateY(16deg) rotateX(2deg) rotateZ(-7deg) scaleY(0.95) translatex(2%);transform:perspective(1000px) rotateY(16deg) rotateX(2deg) rotateZ(-5deg) scaleY(0.95) translatex(2%)}
+
+
 /* Basic */
 
 	html {
